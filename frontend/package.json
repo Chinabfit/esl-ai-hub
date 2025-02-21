@@ -1,0 +1,15 @@
+{
+  "name": "esl-ai-hub-frontend",
+  "version": "1.0.0",
+  "description": "ESL AI Hub Frontend",
+  "main": "App.js",
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.3.0",
+    "axios": "^0.27.2"
+  }
+}
